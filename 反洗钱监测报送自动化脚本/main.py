@@ -3,8 +3,8 @@ import selenium
 from selenium import webdriver
 
 #参数定义
-loginname='010485'      #账户名
-password='Aa123456.'    #密码
+loginname='#####'      #账户名
+password='######'    #密码
 date='2020-10-08'       #处理数据的日期
 
 def main():
